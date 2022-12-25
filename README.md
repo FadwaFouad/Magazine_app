@@ -1,6 +1,11 @@
 # magazine_app
 
-A new Flutter project.
+A  Flutter project implemnt bottom nav to show three section home, profile and setting.
+
+![home](https://user-images.githubusercontent.com/24944117/209462015-4d0624fd-ae96-476e-88fc-cd152aae95d7.jpg)
+![profile](https://user-images.githubusercontent.com/24944117/209462011-b7cff424-ee73-4c1b-8b5b-aec6c130da1e.jpg)  ![setting](https://user-images.githubusercontent.com/24944117/209462013-5f20efc7-3dae-4602-9656-1bcd07d19bd3.jpg)
+
+
 
 ## Getting Started
 
